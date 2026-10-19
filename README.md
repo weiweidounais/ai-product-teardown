@@ -12,7 +12,7 @@
 git clone https://github.com/weiweidounais/ai-product-teardown.git "$HOME/.codex/skills/ai-product-teardown"
 ```
 
-仓库目前为私有，需要有访问权限的 GitHub 账号。
+仓库为公开仓库，可直接查看和克隆。
 
 在能读取该技能的 Codex 会话中使用：
 
